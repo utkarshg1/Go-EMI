@@ -72,16 +72,6 @@ Total Interest to pay : 424421 INR
 
 ---
 
-## Project Structure
-
-```
-├── main.go           # Main application logic
-├── emi/
-│   ├── emi.go        # EMI calculation logic
-```
-
----
-
 ## Author
 
 Developed by **Utkarsh Gaikwad**.
